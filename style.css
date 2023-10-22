@@ -1,0 +1,32 @@
+*{
+    background-color: pink;
+    margin: 10px;
+    padding: 10px;
+}
+div{
+    text-transform: uppercase;
+    width: fit-content;
+}
+p{
+    color: blue;
+}
+#id1{
+    position: relative;
+    left: 100px;
+    padding: 6px;
+    margin: 20px;
+    width: 100px;
+    background-color: blue;
+    color: aliceblue;
+}
+button{
+    position: relative;
+    left: 150px;
+    padding: 6px;
+    margin: 20px;
+    background-color: green;
+    color: aliceblue;
+}
+#id2{
+    width: 350px;
+}
